@@ -23,3 +23,5 @@ choco install vscode -y --force
 # Install PoweShell 7 (Core) - OPTIONAL
 # https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows
 choco install powershell-core -y --force
+# Install Terraform
+# https://www.terraform.io/downloads
